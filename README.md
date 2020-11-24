@@ -8,10 +8,10 @@ First, `cd` to the `STAPLE` Folder
 4. The parameters that need to be passed are the list of segmentations of **individual** classes, since `STAPLE` operates on individual classes.
 
 ## Instructions to do SIMPLE Label Fusion:
-1. `cd` to the `STAPLE` Folder
+1. `cd` to the `SIMPLE` Folder
 2. Run the `SIMPLE.sh` to run the **SIMPLE** algorithm. Make sure the paths to the individual segmentations exist (This applies to the above also)
 
 ## Instructions to do Majority Voting Label Fusion:
 1. `cd` to the `majority_voting` Folder
-2. Run the `maj.sh` to run the **SIMPLE** algorithm. Make sure the paths to the individual segmentations exist (This applies to the above also)
+2. Run the `mv.sh` to run the **Majority Voting** algorithm.
 
